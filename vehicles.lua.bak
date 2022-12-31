@@ -531,7 +531,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Sports',
         ['hash'] = `21c310sedan`,
         ['shop'] = {''},
-	}
+	},
 	
 	['21c313utility'] = {
 		['name'] = '2013 Ford SUV',
@@ -542,6 +542,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Sports',
         ['hash'] = `21c313utility`,
         ['shop'] = {''},
+	},
 		
 	['21c318sedan'] = {
 		['name'] = '2018 Charger',
@@ -552,6 +553,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Sports',
         ['hash'] = `21c318sedan`,
         ['shop'] = {''},
+	},
 		
 	['21c310sedan'] = {
 		['name'] = '2016 Ford Sedan',
@@ -562,6 +564,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Sports',
         ['hash'] = `27c316sedan`,
         ['shop'] = {''},
+	},
 		
 	['27c320muscle'] = {
 		['name'] = '2020 Challenger',
@@ -572,16 +575,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Sports',
         ['hash'] = `27c320muscle`,
         ['shop'] = {''},
-		
-	['27c320muscle'] = {
-		['name'] = '2020 Challenger',
-        ['brand'] = 'Dodge',
-        ['model'] = '27c320muscle',
-        ['price'] = 0,
-        ['category'] = 'Ford',
-        ['categoryLabel'] = 'Sports',
-        ['hash'] = `27c320muscle`,
-        ['shop'] = {''},
+	},
 		
 	--- Compacts
     ['asbo'] = {
