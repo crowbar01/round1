@@ -1,0 +1,1228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+<Item>
+	<modelName>cv88</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		27
+		0
+		0	
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>				
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+	</colors>
+	<kits>
+		<Item>0_default_modkit</Item>
+	</kits>
+	<windowsWithExposedEdges/>
+	<plateProbabilities>
+		<Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="40"/>
+          </Item> 	
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="40"/>
+          </Item> 		  	
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="10"/>
+          </Item> 
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="10"/>
+          </Item>			
+		</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0"/>
+	<sirenSettings value="0"/>
+</Item>
+<Item>
+	<modelName>cv91</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		27
+		0
+		0	
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>				
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+	</colors>
+	<kits>
+		<Item>0_default_modkit</Item>
+	</kits>
+	<windowsWithExposedEdges/>
+	<plateProbabilities>
+		<Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50"/>
+          </Item> 
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50"/>
+          </Item>				
+		</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0"/>
+	<sirenSettings value="0"/>
+</Item>
+<Item>
+	<modelName>cv92</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		27
+		0
+		0	
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>				
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+	</colors>
+	<kits>
+		<Item>0_default_modkit</Item>
+	</kits>
+	<windowsWithExposedEdges/>
+	<plateProbabilities>
+		<Probabilities>
+		<Item>
+			<Name>White Plate 2</Name>
+			<Value value="90"/>
+		</Item>
+		<Item>
+			<Name>Standard White</Name>
+			<Value value="10"/>
+		</Item>
+		</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0"/>
+	<sirenSettings value="0"/>
+</Item>
+<Item>
+	<modelName>cv94</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		27
+		0
+		0	
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>				
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+	</colors>
+	<kits>
+		<Item>0_default_modkit</Item>
+	</kits>
+	<windowsWithExposedEdges/>
+	<plateProbabilities>
+		<Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50"/>
+          </Item> 
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50"/>
+          </Item>
+		</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0"/>
+	<sirenSettings value="0"/>
+</Item>
+<Item>
+      <modelName>cv96</modelName>
+      <colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		27
+		0
+		0	
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>				
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+       </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+</Item>
+<Item>
+      <modelName>cv98</modelName>
+      <colors>
+	<Item>
+		<indices content="char_array">
+		0
+		5
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		5
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		5
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		5
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		27
+		5
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>				
+	<Item>
+		<indices content="char_array">
+		62
+		5
+		0
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		93
+		5
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		5
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		5
+		0
+		5
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		5
+		0	
+		5
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		5
+		0	
+		5
+		107
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		5
+		0	
+		5
+		5
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		5
+		0	
+		5
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		6
+		5
+		0	
+		5
+		5
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		5
+		0
+		5
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		62
+		5
+		0	
+		5
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		6
+		5
+		0	
+		5
+		67
+		</indices>
+		<liveries />
+	</Item>		
+	<Item>
+		<indices content="char_array">
+		0
+		5
+		0	
+		5
+		112
+		</indices>
+		<liveries />
+	</Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>	  
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="0"/>
+</Item>
+  </variationData>
+</CVehicleModelInfoVariation>
