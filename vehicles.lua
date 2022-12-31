@@ -3,7 +3,8 @@ QBShared.VehicleHashes = {}
 
 QBShared.Vehicles = {
     --- 1/1
-	['name'] = 'Boss Mustang - Kitty',
+	['rmodmustang'] = {
+		['name'] = 'Boss Mustang - Kitty',
         ['brand'] = 'Ford',
         ['model'] = 'rmodmustang',
         ['price'] = 1,
@@ -13,7 +14,8 @@ QBShared.Vehicles = {
         ['shop'] = {''},
 	},	
 	
-	['name'] = 'BRZ - Gar 1/1',
+	['brzrbv3'] = {
+		['name'] = 'BRZ - Gar 1/1',
         ['brand'] = 'Subaru',
         ['model'] = 'brzrbv3',
         ['price'] = 1,
@@ -23,7 +25,8 @@ QBShared.Vehicles = {
         ['shop'] = {''},
 	},	
 	
-	['name'] = 'M3 Most Wanted GTR - Crow 1/1',
+	['razor'] = {
+		['name'] = 'M3 Most Wanted GTR - Crow 1/1',
         ['brand'] = 'BMW',
         ['model'] = 'razor',
         ['price'] = 1,
@@ -33,7 +36,8 @@ QBShared.Vehicles = {
         ['shop'] = {''},
 	},	
 	
-	['name'] = 'Nissan GTR - Horizon/Loki',
+	['r35'] = {
+		['name'] = 'Nissan GTR - Horizon/Loki',
         ['brand'] = 'Nissan',
         ['model'] = 'r35',
         ['price'] = 1,
@@ -44,8 +48,8 @@ QBShared.Vehicles = {
 	},	
 	
 	--- Imports
-	
-	['name'] = 'Pista Convertible',
+	['pistas'] = {
+		['name'] = 'Pista Convertible',
         ['brand'] = 'Ferrari',
         ['model'] = 'pistas',
         ['price'] = 270000,
@@ -55,7 +59,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Pista',
+	['pista'] = {
+		['name'] = 'Pista',
         ['brand'] = 'Ferrari',
         ['model'] = 'pista',
         ['price'] = 270000,
@@ -65,7 +70,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'XJ6',
+	['xj690'] = {
+		['name'] = 'XJ6',
         ['brand'] = 'Jaguar',
         ['model'] = 'xj690',
         ['price'] = 27000,
@@ -75,7 +81,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Caprice LWB',
+	['wmlwb'] = {
+		['name'] = 'Caprice LWB',
         ['brand'] = 'Holden',
         ['model'] = 'wmlwb',
         ['price'] = 40000,
@@ -84,8 +91,8 @@ QBShared.Vehicles = {
         ['hash'] = `wmlwb`,
         ['shop'] = {'pdm'},
 	},
-	
-	['name'] = 'Land Cruiser',
+	['vxr16'] = {
+		['name'] = 'Land Cruiser',
         ['brand'] = 'Toyota',
         ['model'] = 'vxr16',
         ['price'] = 26000,
@@ -95,7 +102,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},	
 	
-	['name'] = '850R',
+	['volvo850r'] = {
+		['name'] = '850R',
         ['brand'] = 'Volvo',
         ['model'] = 'volvo850r',
         ['price'] = 25000,
@@ -105,7 +113,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Commodore SSV Ute',
+	['vessvu'] = {
+		['name'] = 'Commodore SSV Ute',
         ['brand'] = 'Holden',
         ['model'] = 'vessvu',
         ['price'] = 39000,
@@ -115,7 +124,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Comodore SSV Wagon',
+	['vessvw'] = {
+		['name'] = 'Comodore SSV Wagon',
         ['brand'] = 'Holden',
         ['model'] = 'vessvw',
         ['price'] = 39000,
@@ -125,7 +135,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Commodore SSV',
+	['vessv'] = {
+		['name'] = 'Commodore SSV',
         ['brand'] = 'Holden',
         ['model'] = 'vessv',
         ['price'] = 39000,
@@ -135,7 +146,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'TT RS',
+	['ttrs'] = {
+		['name'] = 'TT RS',
         ['brand'] = 'Audi',
         ['model'] = 'ttrs',
         ['price'] = 34000,
@@ -145,7 +157,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Grand Cherokee Trackhawk',
+	['trhawk'] = {
+		['name'] = 'Grand Cherokee Trackhawk',
         ['brand'] = 'Jeep',
         ['model'] = 'trhawk',
         ['price'] = 100000,
@@ -155,7 +168,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Taurus',
+	['taurus92'] = {
+		['name'] = 'Taurus',
         ['brand'] = 'Ford',
         ['model'] = 'taurus92',
         ['price'] = 32000,
@@ -165,7 +179,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Tahoe',
+	['tahoe'] = {
+		['name'] = 'Tahoe',
         ['brand'] = 'Chevrolet',
         ['model'] = 'tahoe',
         ['price'] = 27000,
@@ -175,7 +190,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Skyline R34',
+	['skyline'] = {
+		['name'] = 'Skyline R34',
         ['brand'] = 'Nissan',
         ['model'] = 'skyline',
         ['price'] = 74000,
@@ -185,7 +201,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Skyline R33',
+	['r33'] = {
+		['name'] = 'Skyline R33',
         ['brand'] = 'Nissan',
         ['model'] = 'r33',
         ['price'] = 68000,
@@ -195,7 +212,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Skyline R32',
+	['r32'] = {
+		['name'] = 'Skyline R32',
         ['brand'] = 'Nissan',
         ['model'] = 'r32',
         ['price'] = 62000,
@@ -205,7 +223,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},	
 	
-	['name'] = '911 Turbo S',
+	['pts21'] = {
+		['name'] = '911 Turbo S',
         ['brand'] = 'Porsche',
         ['model'] = 'pts21',
         ['price'] = 180000,
@@ -215,7 +234,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Monaro',
+	['monaro'] = {
+		['name'] = 'Monaro',
         ['brand'] = 'Holden',
         ['model'] = 'monaro',
         ['price'] = 27000,
@@ -225,7 +245,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Lancer Evolution IX',
+	['mevo9t'] = {
+		['name'] = 'Lancer Evolution IX',
         ['brand'] = 'Mitsubishi',
         ['model'] = 'mevo9t',
         ['price'] = 64000,
@@ -235,7 +256,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'McLaren SLR',
+	['mbslr'] = {
+		['name'] = 'McLaren SLR',
         ['brand'] = 'Mercendes',
         ['model'] = 'mbslr',
         ['price'] = 55000,
@@ -245,7 +267,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Murcielago',
+	['lp670sv'] = {
+		['name'] = 'Murcielago',
         ['brand'] = 'Lamborghini',
         ['model'] = 'lp670sv',
         ['price'] = 400000,
@@ -255,7 +278,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Gallardo Spyder Performante',
+	['lgss'] = {
+		['name'] = 'Gallardo Spyder Performante',
         ['brand'] = 'Lamborghini',
         ['model'] = 'lgss',
         ['price'] = 150000,
@@ -265,7 +289,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Diablo SV',
+	['ldsv'] = {
+		['name'] = 'Diablo SV',
         ['brand'] = 'Lamborghini',
         ['model'] = 'ldsv',
         ['price'] = 230000,
@@ -275,7 +300,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Charger Demon',
+	['charger15'] = {
+		['name'] = 'Charger Demon',
         ['brand'] = 'Dodge',
         ['model'] = 'charger15',
         ['price'] = 185000,
@@ -285,7 +311,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'GR86',
+	['gr86'] = {
+		['name'] = 'GR86',
         ['brand'] = 'Toyota',
         ['model'] = 'gr86',
         ['price'] = 65000,
@@ -295,7 +322,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = '1998 Crown Victoria',
+	['cv98'] = {
+		['name'] = '1998 Crown Victoria',
         ['brand'] = 'Ford',
         ['model'] = 'cv98',
         ['price'] = 34000,
@@ -305,7 +333,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = '1996 Crown Victoria',
+	['cv96'] = {
+		['name'] = '1996 Crown Victoria',
         ['brand'] = 'Ford',
         ['model'] = 'cv96',
         ['price'] = 31000,
@@ -315,7 +344,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},	
 	
-	['name'] = '1994 Crown Victoria',
+	['cv94'] = {
+		['name'] = '1994 Crown Victoria',
         ['brand'] = 'Ford',
         ['model'] = 'cv94',
         ['price'] = 28000,
@@ -325,7 +355,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},	
 	
-	['name'] = '1992 Crown Victoria',
+	['cv92'] = {
+		['name'] = '1992 Crown Victoria',
         ['brand'] = 'Ford',
         ['model'] = 'cv92',
         ['price'] = 27000,
@@ -335,7 +366,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},	
 	
-	['name'] = '1991 Crown Victoria',
+	['cv91'] = {
+		['name'] = '1991 Crown Victoria',
         ['brand'] = 'Ford',
         ['model'] = 'cv91',
         ['price'] = 26000,
@@ -345,7 +377,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = '1988 Crown Victoria',
+	['cv88'] = {
+		['name'] = '1988 Crown Victoria',
         ['brand'] = 'Ford',
         ['model'] = 'cv88',
         ['price'] = 25000,
@@ -355,7 +388,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'F8 Tributo',
+	['ferf8t20'] = {
+		['name'] = 'F8 Tributo',
         ['brand'] = 'Ferrari',
         ['model'] = 'ferf8t20',
         ['price'] = 265000,
@@ -365,7 +399,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Escalade',
+	['escalade02'] = {
+		['name'] = 'Escalade',
         ['brand'] = 'Cadillac',
         ['model'] = 'escalade02',
         ['price'] = 25000,
@@ -375,7 +410,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'EF Falcon XR6',
+	['efxr6'] = {
+		['name'] = 'EF Falcon XR6',
         ['brand'] = 'Ford',
         ['model'] = 'efxr6',
         ['price'] = 37000,
@@ -385,7 +421,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Eclipse GT',
+	['eclipsegt06'] = {
+		['name'] = 'Eclipse GT',
         ['brand'] = 'Mitsubishi',
         ['model'] = 'eclipsegt06',
         ['price'] = 50000,
@@ -395,7 +432,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Camry',
+	['cm22'] = {
+		['name'] = 'Camry',
         ['brand'] = 'Toyota',
         ['model'] = 'cm22',
         ['price'] = 30000,
@@ -405,7 +443,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'CLS 63 AMG',
+	['cls63amg'] = {
+		['name'] = 'CLS 63 AMG',
         ['brand'] = 'Mercedes',
         ['model'] = 'cls63amg',
         ['price'] = 100000,
@@ -415,7 +454,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = '1969 Camaro',
+	['camaro'] = {
+		['name'] = '1969 Camaro',
         ['brand'] = 'Chevrolet',
         ['model'] = 'camaro',
         ['price'] = 25000,
@@ -425,7 +465,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Quattro',
+	['audquattros'] = {
+		['name'] = 'Quattro',
         ['brand'] = 'audi',
         ['model'] = 'audquattros',
         ['price'] = 37000,
@@ -435,7 +476,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Accord',
+	['accord86'] = {
+		['name'] = 'Accord',
         ['brand'] = 'Honda',
         ['model'] = 'accord86',
         ['price'] = 10000,
@@ -445,7 +487,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Torana A9X',
+	['a9x'] = {
+		['name'] = 'Torana A9X',
         ['brand'] = 'Holden',
         ['model'] = 'A9X',
         ['price'] = 25000,
@@ -455,7 +498,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = '370z Nismo',
+	['370z16'] = {
+		['name'] = '370z Nismo',
         ['brand'] = 'Nissan',
         ['model'] = '370z16',
         ['price'] = 75000,
@@ -465,7 +509,8 @@ QBShared.Vehicles = {
         ['shop'] = {'pdm'},
 	},
 	
-	['name'] = 'Raptor',
+	['raptor'] = {
+		['name'] = 'Raptor',
         ['brand'] = 'Ford',
         ['model'] = '19raptor',
         ['price'] = 50000,
@@ -474,6 +519,64 @@ QBShared.Vehicles = {
         ['hash'] = `19raptor`,
         ['shop'] = {'pdm'},
 	}
+	
+	-- Police
+	
+	['21c310sedan'] = {
+		['name'] = '2010 Charger',
+        ['brand'] = 'Dodge',
+        ['model'] = '21c310sedan',
+        ['price'] = 0,
+        ['category'] = 'Dodge',
+        ['categoryLabel'] = 'Sports',
+        ['hash'] = `21c310sedan`,
+        ['shop'] = {''},
+	},
+	
+	['21c313utility'] = {
+		['name'] = '2013 Ford SUV',
+        ['brand'] = 'Ford',
+        ['model'] = '21c313utility',
+        ['price'] = 0,
+        ['category'] = 'Ford',
+        ['categoryLabel'] = 'Sports',
+        ['hash'] = `21c313utility`,
+        ['shop'] = {''},
+	},
+		
+	['21c318sedan'] = {
+		['name'] = '2018 Charger',
+        ['brand'] = 'Dodge',
+        ['model'] = '21c318sedan',
+        ['price'] = 0,
+        ['category'] = 'Dodge',
+        ['categoryLabel'] = 'Sports',
+        ['hash'] = `21c318sedan`,
+        ['shop'] = {''},
+	},
+		
+	['21c310sedan'] = {
+		['name'] = '2016 Ford Sedan',
+        ['brand'] = 'Ford',
+        ['model'] = '27c316sedan',
+        ['price'] = 0,
+        ['category'] = 'Ford',
+        ['categoryLabel'] = 'Sports',
+        ['hash'] = `27c316sedan`,
+        ['shop'] = {''},
+	},
+		
+	['27c320muscle'] = {
+		['name'] = '2020 Challenger',
+        ['brand'] = 'Dodge',
+        ['model'] = '27c320muscle',
+        ['price'] = 0,
+        ['category'] = 'Ford',
+        ['categoryLabel'] = 'Sports',
+        ['hash'] = `27c320muscle`,
+        ['shop'] = {''},
+	},
+		
 	--- Compacts
     ['asbo'] = {
         ['name'] = 'Asbo',
